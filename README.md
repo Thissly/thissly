@@ -4,3 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+### My Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thissly&show_icons=true&theme=radical)
+
