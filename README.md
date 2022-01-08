@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 ### My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thissly&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thissly&show_icons=true&theme=radical)
 
