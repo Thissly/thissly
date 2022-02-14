@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thissly
+- 👋 Hi, I’m Thissly
 - 🌱 I’m currently learning ...
 -
 -
